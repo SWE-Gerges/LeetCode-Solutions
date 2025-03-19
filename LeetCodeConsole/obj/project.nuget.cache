@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HWF7wGcV1TM=",
+  "success": true,
+  "projectFilePath": "/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/LeetCodeConsole.csproj",
+  "expectedPackageFiles": [
+    "/home/Goosa/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.2/microsoft.aspnetcore.app.ref.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

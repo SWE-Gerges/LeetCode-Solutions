@@ -1,0 +1,15 @@
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/bin/Debug/net9.0/LeetCodeConsole
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/bin/Debug/net9.0/LeetCodeConsole.deps.json
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/bin/Debug/net9.0/LeetCodeConsole.runtimeconfig.json
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/bin/Debug/net9.0/LeetCodeConsole.dll
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/bin/Debug/net9.0/LeetCodeConsole.pdb
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.GeneratedMSBuildEditorConfig.editorconfig
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.AssemblyInfoInputs.cache
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.AssemblyInfo.cs
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.csproj.CoreCompileInputs.cache
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.sourcelink.json
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.dll
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/refint/LeetCodeConsole.dll
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.pdb
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/LeetCodeConsole.genruntimeconfig.cache
+/home/Goosa/Desktop/LeetCode-Solutiosn/LeetCode-Solutions/LeetCodeConsole/obj/Debug/net9.0/ref/LeetCodeConsole.dll
